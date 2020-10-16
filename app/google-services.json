@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794604219191",
+    "firebase_url": "https://sjvirtualtour.firebaseio.com",
+    "project_id": "sjvirtualtour",
+    "storage_bucket": "sjvirtualtour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794604219191:android:0ecb63418376708c5ac8b2",
+        "android_client_info": {
+          "package_name": "com.example.sjvirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794604219191-3vdqaenbcsh6npcl7nu4jcslhstq737o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0QjKof39eWfikFp3dTexT9Vbr9MrmLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794604219191-3vdqaenbcsh6npcl7nu4jcslhstq737o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

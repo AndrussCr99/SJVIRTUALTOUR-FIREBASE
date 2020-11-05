@@ -11,9 +11,9 @@
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
-    <fragment
+    <activity
         android:id="@+id/nav_gallery"
-        android:name="com.example.sjvirtual.ui.gallery.GalleryFragment"
+        android:name="com.example.sjvirtual.Tour"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
